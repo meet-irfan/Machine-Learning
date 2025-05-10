@@ -35,6 +35,8 @@ Example datasets include Iris, MNIST, CIFAR-10, and custom datasets for specific
 ✍🏼Documentation on best practices for developing, testing, and deploying machine learning models.
 
 ✍🏼Guidelines for model validation, hyperparameter tuning, and avoiding common pitfalls.
+    
+  #[SVM-Algorithms-Notes](file:///D:/GitHub/Machine-Learning/svm.pdf)
 
 # 7.Research and Papers<br>
 
